@@ -1,1 +1,2 @@
 hello git by dog!!!
+this is git tool!!!
